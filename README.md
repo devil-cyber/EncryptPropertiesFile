@@ -3,6 +3,7 @@ Whenever we are working with any java project, we make a properties file to keep
 sometime these types of data become sensitive, so to ensure the safety of data I have created this project.
 
 ## JAR to Encrypt Porperties file in java project
+#### Jar file is inside out directory `out/artifacts/EncryptDecrypt_jar`
 #### How to used
 ```java
 // At first add EncryptDecrypt jar in your project lib
