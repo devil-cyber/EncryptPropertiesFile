@@ -1,7 +1,11 @@
+### Motivation
+Whenever we are working with any java project, we make a properties file to keep data like database password, host details etc,
+sometime these types of data become sensitive, so to ensure the safety of data I have created this project.
+
 ## JAR to Encrypt Porperties file in java project
 #### How to used
 ```java
-// At first add EncryptDecrypt jar in your project
+// At first add EncryptDecrypt jar in your project lib
 // make a properties file and add data to it
 
 import CustomException.HandleCustomException;
@@ -27,5 +31,6 @@ public class Main{
 
 
 }
+// This will encrypt the given key value
 
 ```
